@@ -1,8 +1,13 @@
+# 💼 (Career Compass) Plataforma Universal de Matchmaking de Vagas e Currículos ATS-friendly
+
+Este projeto foi desenvolvido como um Desafio de Projeto da DIO no conceito de uma Plataforma de Matchmaking de Vagas e Currículos ATS-friendly, mas, acima de tudo, aprender o jeito Vibe de programar com IA.
+
+```markdown
 # 💼 Plataforma Universal de Matchmaking de Vagas e Currículos ATS-friendly
 
-PRD refinado no Copilot Web:
+## PRD refinado no Copilot Web
 
-```
+```txt
 PRD – Plataforma Universal de Matchmaking de Vagas e Currículos ATS-friendly
 
 # Contexto
@@ -31,81 +36,77 @@ Profissionais de todas as áreas e níveis de experiência que buscam oportunida
 - Esboço de validação inicial: testes com usuários de diferentes áreas e níveis de experiência.  
 - Linguagem acessível e tom educativo em português.  
 - Garantia de design universal e acessibilidade digital para maximizar a experiência positiva de todos os públicos.
-
 ```
 
-Interações com o lovable:
+---
 
-> Crie um aplicativo completo no Lovable que funcione como uma plataforma universal de matchmaking de vagas de emprego e geração de currículos ATS-friendly (PRD)
+## Interações com o Lovable
 
-> Criar um logotipo mais moderno
+> Crie um aplicativo completo no Lovable que funcione como uma plataforma universal de matchmaking de vagas de emprego e geração de currículos ATS-friendly (PRD)  
+> Criar um logotipo mais moderno  
 
-Resultado Final no LOvable: https://soul-career-builder.lovable.app
+**Resultado Final no Lovable:**  
+[https://soul-career-builder.lovable.app](https://soul-career-builder.lovable.app)
 
 <img width="1366" height="1783" alt="image" src="https://github.com/user-attachments/assets/af2791ac-aae8-40f0-a093-5bbede009cf3" />
 
-# 📄 Funcionalidades do App – Plataforma Universal de Matchmaking de Vagas e Currículos ATS-friendly
+---
 
-## Criação de Perfil Profissional
-- Inserir informações pessoais e profissionais: nome, apresentação, e-mail, telefone, cidade e links (LinkedIn, portfólio).
+## 📄 Funcionalidades do App
+
+### Criação de Perfil Profissional
+- Inserir informações pessoais e profissionais: nome, apresentação, e-mail, telefone, cidade e links (LinkedIn, portfólio).  
 - Campo para escrever uma breve história sobre trajetória e objetivos atuais.
 
-## Habilidades e Preferências
-- Adicionar habilidades técnicas e comportamentais.
-- Definir nível de experiência e modelo de trabalho desejado.
-- Informar expectativa salarial (opcional).
+### Habilidades e Preferências
+- Adicionar habilidades técnicas e comportamentais.  
+- Definir nível de experiência e modelo de trabalho desejado.  
+- Informar expectativa salarial (opcional).  
 - Selecionar valores que dão sentido ao trabalho (impacto social, diversidade, inovação, saúde e bem-estar, etc.).
 
-## Experiência, Formação e Projetos
-- Registrar experiências formais, autônomas, voluntárias ou familiares.
-- Adicionar formação acadêmica.
+### Experiência, Formação e Projetos
+- Registrar experiências formais, autônomas, voluntárias ou familiares.  
+- Adicionar formação acadêmica.  
 - Incluir projetos relevantes que complementem o perfil.
 
-## Match Automático de Vagas
-- Receber recomendações de vagas compatíveis com o perfil técnico e humano.
+### Match Automático de Vagas
+- Receber recomendações de vagas compatíveis com o perfil técnico e humano.  
 - Considerar propósito, impacto social e alinhamento cultural além da remuneração.
 
-## Editor de Currículo ATS
-- Gerar currículos otimizados para sistemas ATS.
+### Editor de Currículo ATS
+- Gerar currículos otimizados para sistemas ATS.  
 - Sugestões automáticas de adequação para cada vaga.
 
-## Exportação de Currículo
+### Exportação de Currículo
 - Exportar currículos personalizados em formatos DOCX e PDF.
 
-## Interface e Design
-- Interface simples e direta, sem etapas desnecessárias.
-- Fluxo inicial sem login ou autenticação.
-- Design system ShadCN com paleta marrom claro (#D2B48C), branco (#FFFFFF) e cinza (#A9A9A9).
+### Interface e Design
+- Interface simples e direta, sem etapas desnecessárias.  
+- Fluxo inicial sem login ou autenticação.  
+- Design system ShadCN com paleta marrom claro (#D2B48C), branco (#FFFFFF) e cinza (#A9A9A9).  
 - Layout minimalista, responsivo e inclusivo, com foco em clareza e usabilidade.
 
-## Diferenciais
-- Valorização da história completa: experiências formais, informais, voluntárias e familiares.
+### Diferenciais
+- Valorização da história completa: experiências formais, informais, voluntárias e familiares.  
 - Foco humano: além de requisitos técnicos, considera propósito, impacto social e cultura organizacional.
+
+---
 
 ## Reflexão
 
-### O que funcionou bem?
+### O que funcionou bem
+- Clareza do PRD: Ter um documento bem definido ajudou a IA a entender exatamente o que deveria ser construído.  
+- Interações objetivas: As perguntas diretas e bem formuladas renderam respostas mais úteis e práticas.  
+- Fluxo de trabalho com Copilot e Lovable: Usar o Copilot para refinar o PRD antes de levar ao Lovable garantiu que o prompt estivesse claro e consistente.
 
-Clareza do PRD: Ter um documento bem definido ajudou a IA a entender exatamente o que deveria ser construído.
+### O que não funcionou como esperado
+- Limite de interações: O Lovable tem restrições de uso diário, o que limitou a quantidade de ajustes possíveis em uma única sessão.  
+- Detalhes de design: Algumas escolhas visuais ou de fluxo precisaram ser adaptadas manualmente, pois a IA não captou nuances específicas logo de início.  
+- Validação prática: Ainda não foi possível testar com usuários reais para validar a experiência completa.
 
-Interações objetivas: As perguntas diretas e bem formuladas renderam respostas mais úteis e práticas.
-
-Fluxo de trabalho com Copilot e Lovable: Usar o Copilot para refinar o PRD antes de levar ao Lovable garantiu que o prompt estivesse claro e consistente.
-
-### O que não funcionou como esperado?
-
-Limite de interações: O Lovable tem restrições de uso diário, o que limitou a quantidade de ajustes possíveis em uma única sessão.
-
-Detalhes de design: Algumas escolhas visuais ou de fluxo precisaram ser adaptadas manualmente, pois a IA não captou nuances específicas logo de início.
-
-Validação prática: Ainda não foi possível testar com usuários reais para validar a experiência completa.
-
-### O que aprendeu sobre conversar com I.A?
-
-Importância da clareza: Quanto mais detalhado e específico o prompt, melhor a resposta.
-
-Iteratividade: Conversar com IA é um processo iterativo — cada interação refina e melhora o resultado.
-
-IA como parceira criativa: A IA não substitui o pensamento humano, mas amplia a capacidade de transformar ideias em soluções rápidas e estruturadas.
-
-Valor da intenção: Mais do que comandos técnicos, o que guia a IA é a intenção e o contexto que você transmite.
+### O que aprendeu sobre conversar com I.A
+- Importância da clareza: Quanto mais detalhado e específico o prompt, melhor a resposta.  
+- Iteratividade: Conversar com IA é um processo iterativo — cada interação refina e melhora o resultado.  
+- IA como parceira criativa: A IA não substitui o pensamento humano, mas amplia a capacidade de transformar ideias em soluções rápidas e estruturadas.  
+- Valor da intenção: Mais do que comandos técnicos, o que guia a IA é a intenção e o contexto que você transmite.
+```
